@@ -22,9 +22,26 @@
     { "id": "prod-7d31aff0-016", "name": "Elite Item 16", "category": "books", "price": 171.58, "stock": 168, "rating": 1.1 }
   ],
   "aggregations": {
-    "home": {
-      "count": 1,
-      "inventoryValue": 55206.14
-    }
+  "electronics": {
+    "count": 5,
+    "inventoryValue": 195739.19
+  },
+  "books": {
+    "count": 4,
+    "inventoryValue": 73863.71
+  },
+  "home": {
+    "count": 1,
+    "inventoryValue": 55206.14
+  },
+  "sports": {
+    "count": 4,
+    "inventoryValue": 94927.76
+  },
+  "clothing": {
+    "count": 2,
+    "inventoryValue": 63068.06
   }
+}
+
 }
